@@ -4,7 +4,7 @@
 
 **Semester:** Fall 2026
 
-**Instructor:** [Course Instructor]
+**Instructor:** Professor Reed
 
 ## About This Repo
 
